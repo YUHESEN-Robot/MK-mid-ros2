@@ -1,0 +1,3 @@
+float32 bms_info_voltage
+float32 bms_info_current
+float32 bms_info_remaining_capacity
